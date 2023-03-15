@@ -1,8 +1,10 @@
-Hi! 👋 I'm Katelynn, an undergraduate student at Georgia Tech studying Computer Science and Japanese :) 
+Hi! 👋 I'm Katelynn, an undergraduate student at Georgia Tech studying Computer Science and Japanese ^_^
+
+I love building full-stack projects, especially working with APIs and dynamic frontend frameworks.
 
 #### 🌱 I'm currently working on...
-- tekkanji (テッカンジ) 🈳: a kanji learning web application for students taking JAPN classes
-- spotify jukebox (spotbox) 🪩: a web application for hosting and joining virtual jukeboxes
+- tekkanji (テッカンジ) ㊫: a kanji learning web application for students taking JAPN classes
+- spotify jukebox (spotbox) 🎶: a web application for hosting and joining virtual jukeboxes
 
 #### 📫 how to reach me: katelynn@gatech.edu
 
