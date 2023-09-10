@@ -5,6 +5,7 @@ I love building full-stack projects, especially working with APIs and dynamic fr
 #### 🌱 I'm currently working on...
 - tekkanji (テッカンジ) ㊫: a kanji learning web application for students taking JAPN classes
 - spotify jukebox (spotbox) 🎶: a web application for hosting and joining virtual jukeboxes
+- shelvish 📘: a web application for tracking books and learned vocabulary words
 
 #### 📫 how to reach me: katelynn@gatech.edu
 
