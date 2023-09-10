@@ -1,6 +1,6 @@
 Hi! 👋 I'm Katelynn, an undergraduate student at Georgia Tech studying Computer Science and Japanese ^_^
 
-I love building full-stack projects, especially working with APIs and dynamic frontend frameworks.
+I love building full-stack projects and working with dynamic frontend frameworks, APIs, and databases.
 
 #### 🌱 I'm currently working on...
 - tekkanji (テッカンジ) ㊫: a kanji learning web application for students taking JAPN classes
